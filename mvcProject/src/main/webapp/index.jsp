@@ -3,6 +3,6 @@
 <%
 	response.sendRedirect(request.getContextPath()+"/main/main.do");
 
-
+    System.out.println("~~");
 
 %>
